@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace laba6Test
 {
-    internal class Point
+    public class Point
     {
         private double x { get; set; } 
         private double y { get; set; }
